@@ -1,5 +1,5 @@
 nav{
-  background-color: lightblue;
+  background-color: navy;
   color: white;
   text-align: center;
   font-size: 30px;
@@ -42,7 +42,7 @@ nav{
   }
   
   .feedback-form button {
-    background-color: lightskyblue;
+    background-color: blue;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -53,7 +53,7 @@ nav{
   }
   
   .feedback-form button:hover {
-    background-color: lightsteelblue;
+    background-color: darkblue;
   }
   
   /* Media query for smaller screens */
