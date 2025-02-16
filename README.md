@@ -6,7 +6,7 @@ Feedback Form is a simple web application that allows users to submit feedback a
 
 ## Demo
 
-Live demo [Feedback Form](https://milantony05.github.io/feedback_form/)
+Live demo: [Feedback Form](https://milantony05.github.io/feedback_form/)
 
 ## Installation
 
